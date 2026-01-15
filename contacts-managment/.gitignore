@@ -1,0 +1,19 @@
+# Build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Test artifacts
+TestResults/
+coverage*
+
+# Docker / VS
+Container/
+
+# OS
+Thumbs.db
+.DS_Store
