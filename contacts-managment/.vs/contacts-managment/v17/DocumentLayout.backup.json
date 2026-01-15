@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Raphael\\source\\repos\\contacts-management-api\\contacts-managment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72C25C7B-8FC1-7ABE-62AD-2C47DA91E6CD}|contacts-managment.csproj|c:\\users\\raphael\\source\\repos\\contacts-management-api\\contacts-managment\\services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C25C7B-8FC1-7ABE-62AD-2C47DA91E6CD}|contacts-managment.csproj|solutionrelative:services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C25C7B-8FC1-7ABE-62AD-2C47DA91E6CD}|contacts-managment.csproj|c:\\users\\raphael\\source\\repos\\contacts-management-api\\contacts-managment\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C25C7B-8FC1-7ABE-62AD-2C47DA91E6CD}|contacts-managment.csproj|solutionrelative:models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12FE62C-5A42-438E-9905-31A7DEEF2CFD}|contacts-management.Tests\\contacts-management.Tests.csproj|c:\\users\\raphael\\source\\repos\\contacts-management-api\\contacts-managment\\contacts-management.tests\\services\\contactservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D12FE62C-5A42-438E-9905-31A7DEEF2CFD}|contacts-management.Tests\\contacts-management.Tests.csproj|solutionrelative:contacts-management.tests\\services\\contactservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12FE62C-5A42-438E-9905-31A7DEEF2CFD}|contacts-management.Tests\\contacts-management.Tests.csproj|c:\\users\\raphael\\source\\repos\\contacts-management-api\\contacts-managment\\contacts-management.tests\\integrationtest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D12FE62C-5A42-438E-9905-31A7DEEF2CFD}|contacts-management.Tests\\contacts-management.Tests.csproj|solutionrelative:contacts-management.tests\\integrationtest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C25C7B-8FC1-7ABE-62AD-2C47DA91E6CD}|contacts-managment.csproj|c:\\users\\raphael\\source\\repos\\contacts-management-api\\contacts-managment\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C25C7B-8FC1-7ABE-62AD-2C47DA91E6CD}|contacts-managment.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C25C7B-8FC1-7ABE-62AD-2C47DA91E6CD}|contacts-managment.csproj|c:\\users\\raphael\\source\\repos\\contacts-management-api\\contacts-managment\\repositories\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C25C7B-8FC1-7ABE-62AD-2C47DA91E6CD}|contacts-managment.csproj|solutionrelative:repositories\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IntegrationTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Raphael\\source\\repos\\contacts-management-api\\contacts-managment\\contacts-management.Tests\\IntegrationTest1.cs",
+              "RelativeDocumentMoniker": "contacts-management.Tests\\IntegrationTest1.cs",
+              "ToolTip": "C:\\Users\\Raphael\\source\\repos\\contacts-management-api\\contacts-managment\\contacts-management.Tests\\IntegrationTest1.cs",
+              "RelativeToolTip": "contacts-management.Tests\\IntegrationTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T21:10:25.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Raphael\\source\\repos\\contacts-management-api\\contacts-managment\\contacts-management.Tests\\Services\\ContactServiceTests.cs",
+              "RelativeDocumentMoniker": "contacts-management.Tests\\Services\\ContactServiceTests.cs",
+              "ToolTip": "C:\\Users\\Raphael\\source\\repos\\contacts-management-api\\contacts-managment\\contacts-management.Tests\\Services\\ContactServiceTests.cs",
+              "RelativeToolTip": "contacts-management.Tests\\Services\\ContactServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T21:10:01.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Raphael\\source\\repos\\contacts-management-api\\contacts-managment\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Raphael\\source\\repos\\contacts-management-api\\contacts-managment\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T21:08:53.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Raphael\\source\\repos\\contacts-management-api\\contacts-managment\\Repositories\\ContactRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ContactRepository.cs",
+              "ToolTip": "C:\\Users\\Raphael\\source\\repos\\contacts-management-api\\contacts-managment\\Repositories\\ContactRepository.cs",
+              "RelativeToolTip": "Repositories\\ContactRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T21:08:46.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactService.cs",
+              "DocumentMoniker": "C:\\Users\\Raphael\\source\\repos\\contacts-management-api\\contacts-managment\\Services\\ContactService.cs",
+              "RelativeDocumentMoniker": "Services\\ContactService.cs",
+              "ToolTip": "C:\\Users\\Raphael\\source\\repos\\contacts-management-api\\contacts-managment\\Services\\ContactService.cs",
+              "RelativeToolTip": "Services\\ContactService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T21:08:31.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Raphael\\source\\repos\\contacts-management-api\\contacts-managment\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\Raphael\\source\\repos\\contacts-management-api\\contacts-managment\\Models\\Contact.cs",
+              "RelativeToolTip": "Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T21:06:15.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
